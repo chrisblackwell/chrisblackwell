@@ -1,3 +1,6 @@
+![Gihtub Splash Image](https://chrisblackwell/images/chris-github.png)
+
+
 ### Hi there 👋
 
 <!--
