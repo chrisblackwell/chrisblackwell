@@ -1,4 +1,4 @@
-![Gihtub Splash Image](https://chrisblackwell/images/chris-github.png)
+![Gihtub Splash Image](https://chrisblackwell.me/images/chris-github.png)
 
 
 ### Hi there 👋
